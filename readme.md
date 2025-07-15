@@ -15,5 +15,7 @@ Q5 Identify the top 5 category offering the highest avg discount percentage?<br>
 Q6 Find the price per gram for products above 100gm and sort by best value?<br>
 Q7 Group all the products into categories like Low,Medium,Bulk?<br>
 Q8 What is the total inventory weight per category?<br>
+### Project Demo
 
+![Project Demo](project_demo.png)
 
